@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://oneguardsecurity.github.io/2021/06/25/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oneguardsecurity.github.io/2021/06/25/hello-world/</link>
+	<atom:link href="http://oneguardsecurity.github.io/2021/06/25/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>http://oneguardsecurity.github.io/2021/06/25/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Fri, 25 Jun 2021 12:37:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

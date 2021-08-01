@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized</title>
-	<atom:link href="https://oneguardsecurity.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oneguardsecurity.github.io/</link>
+	<atom:link href="http://oneguardsecurity.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://oneguardsecurity.github.io/</link>
 	<description></description>
 	<lastBuildDate>Fri, 25 Jun 2021 12:37:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://oneguardsecurity.github.io/wp-content/uploads/2021/06/cropped-image0-1-32x32.jpeg</url>
+	<url>http://oneguardsecurity.github.io/wp-content/uploads/2021/06/cropped-image0-1-32x32.jpeg</url>
 	<title>Uncategorized</title>
-	<link>https://oneguardsecurity.github.io/</link>
+	<link>http://oneguardsecurity.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://oneguardsecurity.github.io/2021/06/25/hello-world/</link>
-					<comments>https://oneguardsecurity.github.io/2021/06/25/hello-world/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2021/06/25/hello-world/</link>
+					<comments>http://oneguardsecurity.github.io/2021/06/25/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 25 Jun 2021 12:37:13 +0000</pubDate>
@@ -46,7 +46,7 @@
 <!--/themify_builder_content-->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2021/06/25/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2021/06/25/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

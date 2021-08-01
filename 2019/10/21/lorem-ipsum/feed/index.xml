@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Lorem ipsum	</title>
-	<atom:link href="https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/</link>
+	<atom:link href="http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/feed/" rel="self" type="application/rss+xml" />
+	<link>http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/</link>
 	<description></description>
 	<lastBuildDate>Mon, 21 Oct 2019 07:20:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

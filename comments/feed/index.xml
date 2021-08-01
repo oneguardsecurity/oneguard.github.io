@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for 	</title>
-	<atom:link href="https://oneguardsecurity.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oneguardsecurity.github.io/</link>
+	<atom:link href="http://oneguardsecurity.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://oneguardsecurity.github.io/</link>
 	<description></description>
 	<lastBuildDate>Wed, 28 Jul 2021 13:04:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

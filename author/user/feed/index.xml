@@ -9,8 +9,8 @@
 
 <channel>
 	<title>user</title>
-	<atom:link href="https://oneguardsecurity.github.io/author/user/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oneguardsecurity.github.io/</link>
+	<atom:link href="http://oneguardsecurity.github.io/author/user/feed/" rel="self" type="application/rss+xml" />
+	<link>http://oneguardsecurity.github.io/</link>
 	<description></description>
 	<lastBuildDate>Fri, 25 Jun 2021 12:37:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://oneguardsecurity.github.io/wp-content/uploads/2021/06/cropped-image0-1-32x32.jpeg</url>
+	<url>http://oneguardsecurity.github.io/wp-content/uploads/2021/06/cropped-image0-1-32x32.jpeg</url>
 	<title>user</title>
-	<link>https://oneguardsecurity.github.io/</link>
+	<link>http://oneguardsecurity.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://oneguardsecurity.github.io/2021/06/25/hello-world/</link>
-					<comments>https://oneguardsecurity.github.io/2021/06/25/hello-world/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2021/06/25/hello-world/</link>
+					<comments>http://oneguardsecurity.github.io/2021/06/25/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 25 Jun 2021 12:37:13 +0000</pubDate>
@@ -46,23 +46,23 @@
 <!--/themify_builder_content-->
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2021/06/25/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2021/06/25/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sed ut perspiciatis</title>
-		<link>https://oneguardsecurity.github.io/2019/10/21/sed-ut-perspiciatis/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/21/sed-ut-perspiciatis/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/21/sed-ut-perspiciatis/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/21/sed-ut-perspiciatis/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 07:24:57 +0000</pubDate>
 				<category><![CDATA[Design]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=157</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/glass-material-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.</p>
 
 
 
@@ -73,23 +73,23 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/21/sed-ut-perspiciatis/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/21/sed-ut-perspiciatis/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ratione voluptatem sequi</title>
-		<link>https://oneguardsecurity.github.io/2019/10/21/ratione-voluptatem-sequi/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/21/ratione-voluptatem-sequi/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/21/ratione-voluptatem-sequi/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/21/ratione-voluptatem-sequi/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 07:20:36 +0000</pubDate>
 				<category><![CDATA[Construction]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=159</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, quasi architecto beatae vitae dicta sunt explicabo. Nemo enim [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, quasi architecto beatae vitae dicta sunt explicabo. Nemo enim [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/ship-dock-constrauction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
 
 
 
@@ -104,23 +104,23 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/21/ratione-voluptatem-sequi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/21/ratione-voluptatem-sequi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem ipsum</title>
-		<link>https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 07:20:28 +0000</pubDate>
 				<category><![CDATA[Construction]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=121</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare imperdiet mi, at sollicitudin odio mollis in. Sed gravida libero ut arcu vehicula, in lacinia lorem condimentum. Aenean vulputate lacus a nibh euismod, ac ultrices massa accumsan. Maecenas et sapien scelerisque, aliquam metus nec, porttitor turpis. Nunc ut pretium ipsum. Curabitur nec orci imperdiet, porttitor [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare imperdiet mi, at sollicitudin odio mollis in. Sed gravida libero ut arcu vehicula, in lacinia lorem condimentum. Aenean vulputate lacus a nibh euismod, ac ultrices massa accumsan. Maecenas et sapien scelerisque, aliquam metus nec, porttitor turpis. Nunc ut pretium ipsum. Curabitur nec orci imperdiet, porttitor purus viverra, ornare nisi. Suspendisse non aliquam quam, sed lobortis arcu. Proin vel porttitor orci. Proin eleifend lacus convallis metus rhoncus ullamcorper.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare imperdiet mi, at sollicitudin odio mollis in. Sed gravida libero ut arcu vehicula, in lacinia lorem condimentum. Aenean vulputate lacus a nibh euismod, ac ultrices massa accumsan. Maecenas et sapien scelerisque, aliquam metus nec, porttitor turpis. Nunc ut pretium ipsum. Curabitur nec orci imperdiet, porttitor [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/stadium-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare imperdiet mi, at sollicitudin odio mollis in. Sed gravida libero ut arcu vehicula, in lacinia lorem condimentum. Aenean vulputate lacus a nibh euismod, ac ultrices massa accumsan. Maecenas et sapien scelerisque, aliquam metus nec, porttitor turpis. Nunc ut pretium ipsum. Curabitur nec orci imperdiet, porttitor purus viverra, ornare nisi. Suspendisse non aliquam quam, sed lobortis arcu. Proin vel porttitor orci. Proin eleifend lacus convallis metus rhoncus ullamcorper.</p>
 
 
 
@@ -135,23 +135,23 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Aenean nec turpis tortor</title>
-		<link>https://oneguardsecurity.github.io/2019/10/21/aenean-nec-turpis-tortor/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/21/aenean-nec-turpis-tortor/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/21/aenean-nec-turpis-tortor/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/21/aenean-nec-turpis-tortor/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 07:02:11 +0000</pubDate>
 				<category><![CDATA[Design]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=127</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Aenean sit amet auctor enim. Sed id sapien vel libero bibendum interdum eu sed odio. Vestibulum suscipit enim pulvinar fringilla rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec turpis tortor. Phasellus vitae massa quis odio ullamcorper eleifend ac id mi. Ut molestie a sem in rutrum. Vestibulum [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Aenean sit amet auctor enim. Sed id sapien vel libero bibendum interdum eu sed odio. Vestibulum suscipit enim pulvinar fringilla rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec turpis tortor. Phasellus vitae massa quis odio ullamcorper eleifend ac id mi. Ut molestie a sem in rutrum. Vestibulum sit amet pulvinar nibh, a luctus nibh. Praesent et facilisis erat. Phasellus nisi orci, ullamcorper eu metus cursus, dictum pharetra libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis quam quis nulla sollicitudin, eu maximus felis blandit. Sed et pellentesque erat. Phasellus eleifend tellus sit amet magna molestie tincidunt.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Aenean sit amet auctor enim. Sed id sapien vel libero bibendum interdum eu sed odio. Vestibulum suscipit enim pulvinar fringilla rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec turpis tortor. Phasellus vitae massa quis odio ullamcorper eleifend ac id mi. Ut molestie a sem in rutrum. Vestibulum [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/hotel-on-build-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Aenean sit amet auctor enim. Sed id sapien vel libero bibendum interdum eu sed odio. Vestibulum suscipit enim pulvinar fringilla rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec turpis tortor. Phasellus vitae massa quis odio ullamcorper eleifend ac id mi. Ut molestie a sem in rutrum. Vestibulum sit amet pulvinar nibh, a luctus nibh. Praesent et facilisis erat. Phasellus nisi orci, ullamcorper eu metus cursus, dictum pharetra libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis quam quis nulla sollicitudin, eu maximus felis blandit. Sed et pellentesque erat. Phasellus eleifend tellus sit amet magna molestie tincidunt.</p>
 
 
 
@@ -166,23 +166,23 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/21/aenean-nec-turpis-tortor/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/21/aenean-nec-turpis-tortor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lorem ipsum</title>
-		<link>https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum-2/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum-2/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum-2/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum-2/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2019 07:00:40 +0000</pubDate>
 				<category><![CDATA[Construction]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=155</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias at vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias at vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias at vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/old-factory-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias at vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis.</p>
 
 
 
@@ -197,15 +197,15 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/21/lorem-ipsum-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/21/lorem-ipsum-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Itaque earum</title>
-		<link>https://oneguardsecurity.github.io/2019/10/19/itaque-earum/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/19/itaque-earum/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/19/itaque-earum/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/19/itaque-earum/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 19 Oct 2019 07:03:18 +0000</pubDate>
@@ -213,8 +213,8 @@
 		<category><![CDATA[Design]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=160</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat epellendus. &#160;Ton provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat epellendus. &nbsp;Ton provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat epellendus. &#160;Ton provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/roof-steel-contrsuction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat epellendus. &nbsp;Ton provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.</p>
 
 
 
@@ -229,23 +229,23 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/19/itaque-earum/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/19/itaque-earum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Comodo consequat</title>
-		<link>https://oneguardsecurity.github.io/2019/10/18/comodo-consequat/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/18/comodo-consequat/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/18/comodo-consequat/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/18/comodo-consequat/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 18 Oct 2019 07:04:00 +0000</pubDate>
 				<category><![CDATA[Construction]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=161</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est. Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/bridge-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est. Laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
 
@@ -260,23 +260,23 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/18/comodo-consequat/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/18/comodo-consequat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Soluta nobis est eligendi</title>
-		<link>https://oneguardsecurity.github.io/2019/10/17/soluta-nobis-est-eligendi/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/17/soluta-nobis-est-eligendi/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/17/soluta-nobis-est-eligendi/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/17/soluta-nobis-est-eligendi/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 17 Oct 2019 07:04:51 +0000</pubDate>
 				<category><![CDATA[Design]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=162</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus. Et quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/long-bridge-consturction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus. Et quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus omnis.</p>
 
 
 
@@ -287,23 +287,23 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/17/soluta-nobis-est-eligendi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/17/soluta-nobis-est-eligendi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Voluptate velit esse cillum</title>
-		<link>https://oneguardsecurity.github.io/2019/10/16/voluptate-velit-esse-cillum/</link>
-					<comments>https://oneguardsecurity.github.io/2019/10/16/voluptate-velit-esse-cillum/#respond</comments>
+		<link>http://oneguardsecurity.github.io/2019/10/16/voluptate-velit-esse-cillum/</link>
+					<comments>http://oneguardsecurity.github.io/2019/10/16/voluptate-velit-esse-cillum/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 16 Oct 2019 07:17:54 +0000</pubDate>
 				<category><![CDATA[Construction]]></category>
 		<guid isPermaLink="false">https://themify.me/demo/themes/ultra-construction/?p=178</guid>
 
-					<description><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&#8230;]]]></description>
-										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg 1500w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-300x226.jpg 300w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-1024x771.jpg 1024w, https://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<description><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><img width="1500" height="1130" src="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction.jpg 1500w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-300x226.jpg 300w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-1024x771.jpg 1024w, http://oneguardsecurity.github.io/wp-content/uploads/2021/07/building-construction-768x579.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 
 
@@ -318,7 +318,7 @@
     </div>
 <!--/themify_builder_content-->]]></content:encoded>
 					
-					<wfw:commentRss>https://oneguardsecurity.github.io/2019/10/16/voluptate-velit-esse-cillum/feed/</wfw:commentRss>
+					<wfw:commentRss>http://oneguardsecurity.github.io/2019/10/16/voluptate-velit-esse-cillum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
